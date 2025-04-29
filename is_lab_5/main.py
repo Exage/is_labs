@@ -153,4 +153,8 @@ rounds = 50
 game = Game(player1, player2, rounds)
 game.play()
 
+# pip install virtualenv
+# python -m venv venv
+# Windows: venv\Scripts\activate
+# MacOS: source venv/bin/activate
 # pip install -r requirements.txt
