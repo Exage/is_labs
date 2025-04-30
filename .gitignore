@@ -10,3 +10,5 @@ __pycache__/
 .idea/
 
 .DS_Store
+
+is_lab_7/processed_data.json
